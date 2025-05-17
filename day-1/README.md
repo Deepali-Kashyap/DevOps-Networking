@@ -67,3 +67,51 @@ Sends raw bits (0s and 1s) through a physical medium.
 - Ethernet cables – wired network.  
 - Wi-Fi signals – wireless transmission.  
 - Fiber optics – high-speed internet.
+
+
+# Real-World Examples of TCP/IP Model Layers
+
+---
+
+### 1. Application Layer  
+Provides services and interfaces for software applications to communicate over the network.
+
+**Examples:**  
+- HTTP/HTTPS – loading websites in a browser (e.g., `www.example.com`)  
+- SMTP – sending emails  
+- FTP – uploading/downloading files  
+- DNS – translating domain names to IP addresses  
+- VoIP – apps like Skype or Zoom for voice and video calls
+
+---
+
+### 2. Transport Layer  
+Manages end-to-end communication, including error checking and data delivery.
+
+**Examples:**  
+- TCP (Transmission Control Protocol) – ensures data is delivered completely and in order (e.g., streaming Netflix, downloading files)  
+- UDP (User Datagram Protocol) – sends data fast without checking (e.g., online gaming, live video calls)
+
+---
+
+### 3. Internet Layer  
+Handles addressing and routing data across networks.
+
+**Examples:**  
+- IP (Internet Protocol) – assigns IP addresses like `192.168.1.1`  
+- ICMP – used by tools like `ping` to test connectivity  
+- Routers – forward data between different networks
+
+---
+
+### 4. Network Access Layer  
+Controls how data is physically sent over the network (wired or wireless).
+
+**Examples:**  
+- Ethernet cables – wired connections in LAN  
+- Wi-Fi (802.11) – wireless local area networking  
+- MAC addresses – unique identifiers for devices on a local network  
+- Network switches – direct local network traffic
+
+---
+
