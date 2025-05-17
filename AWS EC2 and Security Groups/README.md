@@ -90,5 +90,3 @@ After the instance is running:
 - [Security Groups Overview](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 
 ---
-
-> ✍️ **Author Note:** This guide is part of a hands-on DevOps learning series. Follow for more AWS and cloud infrastructure tips!
